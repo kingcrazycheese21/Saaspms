@@ -1,0 +1,4 @@
+body{margin:0;font-family:sans-serif;display:flex}
+.sidebar{width:200px;background:#0b2e6f;color:#fff;padding:20px;display:flex;flex-direction:column;gap:10px}
+.sidebar a{color:#fff;text-decoration:none;padding:5px 0}
+.main{padding:20px;flex:1;background:#f0f2f7}
